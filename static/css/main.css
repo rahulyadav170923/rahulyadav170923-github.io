@@ -12,16 +12,16 @@ height: 100%;
 }
 
 .left-container{
-	width: 70%;
+	width: 60%;
 	height: 100%;
-	background-color: gray;
+	background-color: transparent;
 	float: left;
 
 	}
 .right-container{
-	width: 30%;
+	width: 40%;
 	height: 100%;
-	background-color: green;
+	background-color: transparent;
 	float: right;
 	}
 
